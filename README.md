@@ -1,11 +1,11 @@
 # NYC Dataset
 
-The traffic dataset of New York City is a commonly used data set in traffic prediction problems, mainly including taxi traffic data and bicycle traffic data.
+The traffic dataset of New York City is a commonly used dataset in traffic prediction problems, mainly including taxi traffic data and bicycle traffic data.
 
 - NYC Taxi: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - NYC Bike: https://www.citibikenyc.com/system-data
 
-Many papers in the field of traffic prediction (especially in the field of traffic flow prediction) use part of these two large-scale datasets.s
+Many papers in the field of traffic prediction (especially in the field of traffic flow prediction) use part of these two large-scale datasets.
 
 ## Data List
 
@@ -27,7 +27,7 @@ Here I collected 8 relevant datasets of 4 papers, all of which are grid-based da
 
 ### [KDD2019] [Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning](https://dl.acm.org/doi/abs/10.1145/3292500.3330884)
 
-- T-Drive(Range 20150201-20160602,  Map size 32x32)
+- T-Drive (Range 20150201-20160602,  Map size 32x32)
 
 ### [KDD2020] [Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction](https://dl.acm.org/doi/abs/10.1145/3394486.3403046)
 
